@@ -1,0 +1,23 @@
+{
+  "skill_name": "insight-jx1m2-for-marketing",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Bên ads cần 3 idea video ads 15-30s cho đợt mở server mới tháng 12 của JX1M2 bản có giấy phép (lên store). Target dân cày giả lập + 8x hoài niệm. Làm brief để gửi editor dựng luôn.",
+      "expected_output": "3 brief video theo template chung + biến thể video: hook A/B, bảng kịch bản theo cảnh, CTA; gắn chu kỳ server mới; ghi rõ insight; không văn sáo rỗng.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "JX1M2 bản private (1 server, tải qua TestFlight/APK) đã ra mắt được 2 tháng, CCU đang giảm dần. Lên giúp mình kế hoạch content 1 tuần cho group FB, kèm 1 event giftcode để kéo người quay lại, và viết sẵn 2 bài post để đăng luôn.",
+      "expected_output": "Bảng lịch 1 tuần, 1 event giftcode theo hướng giữ chân/cộng đồng, 2 caption hoàn chỉnh theo template post cộng đồng; không đề xuất mở server mới; dùng 4 tuyến content.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Brief giúp em bộ 3 ảnh teaser cho ngày ra mắt server JX1M2 bản private (TestFlight/APK), gửi bên design làm. Ra mắt 20h ngày 15/12.",
+      "expected_output": "Mạch kể cho bộ 3 ảnh + 3 brief ảnh theo template (bố cục, chủ thể, mood, chữ trên ảnh, KHÔNG làm); có hướng dẫn tải; tránh IP gốc; không văn sáo rỗng.",
+      "files": []
+    }
+  ]
+}
